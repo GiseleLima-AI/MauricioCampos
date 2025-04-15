@@ -136,12 +136,12 @@ img {
 
 .apresentacao__links__navegacao:visited {
     background-color: var(--cor-terciaria);
-    color:var(--cor-secundaria)
+    color:var(--cor-secundaria);
     text-decoration: none;
 } 
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-terciaria);
-    color:var(--cor-secundaria)
+    color:var(--cor-secundaria);
     text-decoration: none;
 } 
 
