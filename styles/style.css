@@ -19,7 +19,7 @@ body {
 
 }
 
-img {
+.imagem_geral {
   max-width: 500px;
   height: auto;
 }
