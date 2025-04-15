@@ -39,6 +39,11 @@ body {
     text-decoration: none;
 }
 
+img {
+  width: 300px;
+  height: 200px;
+}
+
 .apresentacao {
     padding: 2% 10%;
     display: flex;
