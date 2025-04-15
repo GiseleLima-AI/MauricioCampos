@@ -114,6 +114,7 @@ img {
     font-family: var(--fonte-secundaria);
     font-size:1.4rem;
     font-weight: 400;
+    text-decoration: none;
 }
 
 .apresentacao__links__navegacao {
@@ -133,9 +134,15 @@ img {
     padding: 21.5px 10px;
 }
 
+.apresentacao__links__navegacao:visited {
+    background-color: var(--cor-terciaria);
+    color:var(--cor-secundaria)
+    text-decoration: none;
+} 
 .apresentacao__links__navegacao:hover {
     background-color: var(--cor-terciaria);
     color:var(--cor-secundaria)
+    text-decoration: none;
 } 
 
 .apresentacao__imagem {
@@ -150,6 +157,7 @@ img {
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
     font-weight: 400;
+    text-decoration: none;
 }
 
 @media (max-width: 1200px) {
