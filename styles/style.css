@@ -27,7 +27,7 @@ body {
 
 .logo {
   max-width: 10%;
-  padding: 2% 10% 0% 10%;
+  padding: 2% 20% 0% 20%;
   height: auto;
 }
 .cabecalho {
@@ -174,7 +174,10 @@ body {
     .cabecalho__menu {
         justify-content: center;
     }
-
+    .logo {
+    max-width: 20%;
+    padding: 15%;
+}
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
