@@ -18,7 +18,30 @@ body {
     color: var(--cor-primaria);
 
 }
+.a {
+    display: flex;
+    justify-content: center;
+    border: 2px solid var(--cor-terciaria);
+    border-radius: 9px;
+    font-size:1rem;
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-secundaria);
+    font-style: normal;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 10px;
+}
 
+.a:visited {
+    background-color: var(--cor-terciaria);
+    color:var(--cor-secundaria);
+    text-decoration: none;
+} 
+.a:hover {
+    background-color: var(--cor-terciaria);
+    color:var(--cor-secundaria);
+    text-decoration: none;
+} 
 .imagem_geral {
   max-width: 50%;
   height: auto;
