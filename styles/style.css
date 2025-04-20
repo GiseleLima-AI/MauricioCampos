@@ -155,7 +155,7 @@ body {
 }
 
 .rodape {
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
