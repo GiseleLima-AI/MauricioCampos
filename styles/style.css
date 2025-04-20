@@ -129,13 +129,13 @@ body {
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
     font-size:1.5rem;
-    color: var(--cor-primaria);
+    color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
-    font-weight: 600; 
+    font-weight: 300; 
     font-style: normal;
     text-align: center;
     text-decoration: none;
-    padding: 21.5px 10px;
+    padding: 20px 10px;
 }
 
 .apresentacao__links__navegacao:visited {
