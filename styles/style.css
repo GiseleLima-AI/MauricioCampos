@@ -32,12 +32,12 @@ body {
     padding: 20px 10px;
 }
 
-.a:visited {
+.a: visited {
     background-color: var(--cor-terciaria);
     color:var(--cor-secundaria);
     text-decoration: none;
 } 
-.a:hover {
+.a: hover {
     background-color: var(--cor-terciaria);
     color:var(--cor-secundaria);
     text-decoration: none;
@@ -181,7 +181,7 @@ body {
 .rodape {
     padding: 10px;
     text-align: center;
-    color: var(--cor-primaria);
+    color: var(--cor-secundaria);
     background-color: var(--cor-terciaria);
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
