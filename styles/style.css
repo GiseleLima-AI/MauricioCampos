@@ -20,8 +20,9 @@ body {
 }
 
 .imagem_geral {
-  max-width: 500px;
+  max-width: 50%;
   height: auto;
+  border-radius: 15%;
 }
 
 .logo {
@@ -65,7 +66,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size:2rem;
+    font-size:1.4rem;
     font-family: var(--fonte-primaria);
 }
 
@@ -128,10 +129,10 @@ body {
     width: 50%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
-    font-size:1.5rem;
+    font-size:1rem;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
-    font-weight: 300; 
+    /*font-weight: 300; */
     font-style: normal;
     text-align: center;
     text-decoration: none;
