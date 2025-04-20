@@ -184,6 +184,11 @@ body {
     }
     
     .apresentacao__imagem {
-    width: 50%;
+    width: 80%;
+}
+    .imagem_geral {
+    max-width: 80%;
+    height: auto;
+    border-radius: 15%;
 }
 }
