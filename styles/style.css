@@ -26,7 +26,8 @@ body {
 }
 
 .logo {
-  max-width: 100px;
+  max-width: 30%;
+  padding: 20%;
   height: auto;
 }
 .cabecalho {
