@@ -19,7 +19,7 @@ body {
 }
 
 .imagem_geral {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
   border-radius: 15%;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .apresentacao {
-    padding: 2% 10%;
+    padding: 0% 10% 2% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
