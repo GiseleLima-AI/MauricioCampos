@@ -19,7 +19,7 @@ body {
 }
 
 .imagem_geral {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
   border-radius: 15%;
 }
@@ -106,6 +106,7 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     color:var(--cor-terciaria);
+    text-align: center;
     text-decoration: none;
     font-weight: 400;
 }
