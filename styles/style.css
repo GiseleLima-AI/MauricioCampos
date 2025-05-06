@@ -77,7 +77,7 @@ body {
     font-family: var(--fonte-primaria);
 }
 .titulo_nome {
-    padding: 5% 0% 5% 0%;
+    /*padding: 5% 0% 5% 0%; */
     font-family: var(--fonte-primaria);
     font-size: 2rem;
     font-weight: 400;
