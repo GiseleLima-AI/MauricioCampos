@@ -171,11 +171,11 @@ body {
 }
 
 .rodape {
-    padding: 2px;
+    padding: 10px 0px 0px 0px;
     text-align: center;
     color: var(--cor-primaria);
     font-family: var(--fonte-primaria);
-    font-size: .7rem;
+    font-size: .4rem;
     font-weight: 100;
     text-decoration: none;
 }
