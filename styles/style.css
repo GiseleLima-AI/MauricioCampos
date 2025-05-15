@@ -22,6 +22,7 @@ body {
   max-width: 70%;
   height: auto;
   border-radius: 15%;
+  text-align: center;
 }
 
 .logo {
@@ -237,5 +238,6 @@ body {
     max-width: 80%;
     height: auto;
     border-radius: 15%;
+    text-align: center;
 }
 }
