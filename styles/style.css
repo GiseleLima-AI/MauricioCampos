@@ -63,6 +63,7 @@ body {
 .apresentacao__conteudo {
     width: 100%;
     font-style: normal;
+    text-align: center;
     display: flex;
     flex-direction: column;
     gap: 40px;
