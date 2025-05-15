@@ -23,6 +23,7 @@ body {
   height: auto;
   border-radius: 15%;
   text-align: center;
+  align-items: center;
 }
 
 .logo {
@@ -73,7 +74,7 @@ body {
     font-size:1.2rem;
     font-weight: 200;
     font-family: var(--fonte-primaria);
-    text-align: center;
+    align-items: center;
 }
 
 .apresentacao__conteudo__titulocard {
