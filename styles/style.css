@@ -175,7 +175,7 @@ body {
     text-align: center;
     color: var(--cor-primaria);
     font-family: var(--fonte-primaria);
-    font-size: .4rem;
+    font-size: .8rem;
     font-weight: 100;
     text-decoration: none;
 }
@@ -187,7 +187,7 @@ body {
     /*width: 70%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;*/
-    font-size:.4rem;
+    font-size:.8rem;
     font-weight: 100;
     color: var(--cor-primaria);
     font-family: var(--fonte-primaria);
